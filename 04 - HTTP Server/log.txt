@@ -1,0 +1,4 @@
+function now() { [native code] }: / New request recieved
+function now() { [native code] }: /favicon.ico New request recieved
+function now() { [native code] }: /about New request recieved
+function now() { [native code] }: /favicon.ico New request recieved
