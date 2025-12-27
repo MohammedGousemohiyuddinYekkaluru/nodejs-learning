@@ -1,3 +1,7 @@
 1766816953551: / New request recieved
 1766816959690: /about New request recieved
 1766816966889: /search New request recieved
+1766817467436: GET /about New request recieved
+1766817472015: GET / New request recieved
+1766817480124: GET /search New request recieved
+1766817689567: GET /search New request recieved
